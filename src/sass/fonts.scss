@@ -1,0 +1,5 @@
+@import 'mixin.scss';
+
+
+@include font-face("OpenSans", "../fonts/OpenSans/OpenSans-Bold", 600);
+@include font-face("PTSerif", "../fonts/PTSerif/PTSerif-Bold", 600);
